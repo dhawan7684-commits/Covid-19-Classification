@@ -19,8 +19,8 @@ import torch.nn as nn
 from pathlib import Path
 from typing import Literal
 
-from efficientnet import EfficientNetClassifier
-from vit import ViTClassifier
+from models.efficientnet import EfficientNetClassifier
+from models.vit import ViTClassifier
 
 
 # ---------------------------------------------------------------------------

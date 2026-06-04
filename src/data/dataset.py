@@ -189,7 +189,7 @@ class ChestXRayDataset(Dataset):
 
 if __name__ == "__main__":
     from pathlib import Path
-    from transforms import get_transforms
+    from data.transforms import get_transforms
 
     project_root = Path(__file__).resolve().parents[2]
     dataset_root = project_root / "COVID_19_dataset"

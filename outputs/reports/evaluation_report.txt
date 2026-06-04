@@ -1,0 +1,22 @@
+EfficientNet-B0 — Test Set Evaluation Report
+======================================================================
+Checkpoint : outputs\checkpoints\best_model.pth
+Epoch      : 22
+Val Acc    : 0.9748
+
+Accuracy          : 0.9766
+Macro Precision   : 0.9785
+Macro Recall      : 0.9763
+Macro F1          : 0.9768
+Weighted F1       : 0.9768
+ROC-AUC (macro)   : 0.9984
+
+                 precision    recall  f1-score   support
+
+          COVID       1.00      0.96      0.98       138
+         Normal       0.94      1.00      0.97       145
+Viral Pneumonia       1.00      0.97      0.99       145
+
+       accuracy                           0.98       428
+      macro avg       0.98      0.98      0.98       428
+   weighted avg       0.98      0.98      0.98       428

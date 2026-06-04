@@ -19,8 +19,8 @@ from typing import Dict, Tuple
 import torch
 from torch.utils.data import DataLoader, WeightedRandomSampler
 
-from dataset import ChestXRayDataset, CLASS_NAMES
-from transforms import get_transforms
+from data.dataset import ChestXRayDataset, CLASS_NAMES
+from data.transforms import get_transforms
 
 
 # ---------------------------------------------------------------------------
@@ -65,7 +65,7 @@ def build_weighted_sampler(dataset: ChestXRayDataset) -> WeightedRandomSampler:
     }
 
     # Assign per-sample weights
-    from dataset import IDX_TO_CLASS
+    from data.dataset import IDX_TO_CLASS
     sample_weights = [
         class_weights[IDX_TO_CLASS[label]]
         for label in labels
