@@ -1,0 +1,94 @@
+================================================================================
+DELETED DUPLICATE FILES
+================================================================================
+
+TRAIN SPLIT
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1096.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-115.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1123.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-323.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1126.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1335.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1159.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-483.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1276.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-447.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1362.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-422.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-873.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1379.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-473.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1410.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-692.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1425.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-508.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-143.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-614.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1431.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-355.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-163.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-619.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-178.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-98.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2458.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2459.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-253.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-572.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2715.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2717.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-279.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-848.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2808.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2811.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3140.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3141.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3142.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3144.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-398.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-684.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-1052.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-1053.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-117.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-118.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-249.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-250.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-294.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-295.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-595.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-596.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-74.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-75.png
+
+KEEP: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-953.png
+DELETE: C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-954.png
+
+VAL SPLIT
+
+TEST SPLIT
+

@@ -1,0 +1,51 @@
+================================================================================
+DATA LEAKAGE CLEANUP LOG
+================================================================================
+
+FILES KEPT
+
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3374.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-533.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-442.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1123.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2715.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-126.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-766.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1188.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1431.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-2677.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-517.png
+
+--------------------------------------------------------------------------------
+
+FILES SELECTED FOR REMOVAL
+
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-3375.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-898.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-1267.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-1416.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-2716.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-230.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-114.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-487.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-315.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-2678.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-56.png
+
+--------------------------------------------------------------------------------
+
+DELETION RESULTS
+
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-3375.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-898.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-1267.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-1416.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-2716.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-230.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-114.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-487.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-315.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-2678.png
+REMOVED : C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-56.png
+
+================================================================================

@@ -1,0 +1,157 @@
+================================================================================
+DATA LEAKAGE REPORT
+================================================================================
+
+TRAIN ↔ VALIDATION
+
+Leakage Cases Found: 4
+
+Case 1:
+
+Hash: 8179069e5e585d5d
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3374.png
+
+Validation:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-3375.png
+
+---
+
+Case 2:
+
+Hash: 986d075ec21f5a69
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-533.png
+
+Validation:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-898.png
+
+---
+
+Case 3:
+
+Hash: d8798587c71f034b
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-442.png
+
+Validation:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-1267.png
+
+---
+
+Case 4:
+
+Hash: dd28d3c35f55420b
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1123.png
+
+Validation:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-1416.png
+
+---
+
+TRAIN ↔ TEST
+
+Leakage Cases Found: 5
+
+Case 1:
+
+Hash: 81765c786b2d2e2b
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2715.png
+
+Test:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-2716.png
+
+---
+
+Case 2:
+
+Hash: 883f831b290d1f3f
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-126.png
+
+Test:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-230.png
+
+---
+
+Case 3:
+
+Hash: d42aa70a5d5d193d
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-766.png
+
+Test:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-114.png
+
+---
+
+Case 4:
+
+Hash: d939d6d65a485859
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1188.png
+
+Test:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-487.png
+
+---
+
+Case 5:
+
+Hash: ed3d1796188907ba
+
+Train:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1431.png
+
+Test:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-315.png
+
+---
+
+VALIDATION ↔ TEST
+
+Leakage Cases Found: 2
+
+Case 1:
+
+Hash: dc26470e2635f4d3
+
+Validation:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-2677.png
+
+Test:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-2678.png
+
+---
+
+Case 2:
+
+Hash: dc2ec34b0d8a0f2f
+
+Validation:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\val\COVID\COVID-517.png
+
+Test:
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\test\COVID\COVID-56.png
+
+---
+
+SUMMARY
+
+Train ↔ Validation Leakage: 4
+Train ↔ Test Leakage: 5
+Validation ↔ Test Leakage: 2
+
+Total Leakage Cases: 11
+
+================================================================================

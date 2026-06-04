@@ -1,0 +1,127 @@
+================================================================================
+DUPLICATE GROUPS BEFORE DELETION
+================================================================================
+
+TRAIN SPLIT
+
+Group 1
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1096.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-115.png
+
+Group 2
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1123.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-323.png
+
+Group 3
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1126.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1335.png
+
+Group 4
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1159.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-483.png
+
+Group 5
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1276.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-447.png
+
+Group 6
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1362.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-422.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-873.png
+
+Group 7
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1379.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-473.png
+
+Group 8
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1410.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-692.png
+
+Group 9
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1425.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-508.png
+
+Group 10
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-143.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-614.png
+
+Group 11
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-1431.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-355.png
+
+Group 12
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-163.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-619.png
+
+Group 13
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-178.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-98.png
+
+Group 14
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2458.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2459.png
+
+Group 15
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-253.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-572.png
+
+Group 16
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2715.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2717.png
+
+Group 17
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-279.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-848.png
+
+Group 18
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2808.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-2811.png
+
+Group 19
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3140.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3141.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3142.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-3144.png
+
+Group 20
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-398.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\COVID\COVID-684.png
+
+Group 21
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-1052.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-1053.png
+
+Group 22
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-117.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-118.png
+
+Group 23
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-249.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-250.png
+
+Group 24
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-294.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-295.png
+
+Group 25
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-595.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-596.png
+
+Group 26
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-74.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-75.png
+
+Group 27
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-953.png
+C:\Users\Laksh Dhawan\Desktop\ExCV\COVID_19_dataset\train\Viral Pneumonia\Viral Pneumonia-954.png
+
+--------------------------------------------------------------------------------
+
+VAL SPLIT
+
+No duplicate groups found.
+
+TEST SPLIT
+
+No duplicate groups found.
+

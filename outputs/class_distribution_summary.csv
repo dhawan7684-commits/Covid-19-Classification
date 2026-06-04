@@ -1,0 +1,4 @@
+Class,Train,Validation,Test,Total,Percentage
+COVID,1000,200,145,1345,33.33
+Normal,1000,200,145,1345,33.33
+Viral Pneumonia,1000,200,145,1345,33.33

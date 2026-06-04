@@ -1,0 +1,27 @@
+================================================================================
+IMAGE DIMENSION ANALYSIS REPORT
+================================================================================
+
+Total Images: 3,994
+
+WIDTH STATISTICS
+Minimum Width: 299
+Maximum Width: 299
+Average Width: 299.00
+
+HEIGHT STATISTICS
+Minimum Height: 299
+Maximum Height: 299
+Average Height: 299.00
+
+Minimum Resolution: 299x299
+Maximum Resolution: 299x299
+Most Common Resolution: 299x299
+Most Common Count: 3994
+Unique Resolutions: 1
+
+================================================================================
+RESOLUTION FREQUENCY TABLE
+================================================================================
+
+299x299 -> 3994 images
